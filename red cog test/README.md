@@ -1,2 +1,0 @@
-#red cog test
-test
