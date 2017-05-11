@@ -1,0 +1,12 @@
+{
+    "AUTHOR" : "MeikoMenmaHonma",
+    "DESCRIPTION" : "punch cog as test",
+    "INSTALL_MSG" : "congrats",
+    "NAME" : "punch",
+    "REQUIREMENTS" : [],
+    "SHORT" : "punch cog",
+    "TAGS" : [
+        "punch",
+        "test"
+    ]
+}
