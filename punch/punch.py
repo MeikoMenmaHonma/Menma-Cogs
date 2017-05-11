@@ -15,4 +15,4 @@ class punch:
         await self.bot.say("ONE PUNCH! And " + user.mention + " is out! ლ(ಠ益ಠლ)")
 
 def setup(bot):
-    bot.add_cog(Mycog(bot))
+    bot.add_cog(punch(bot))
